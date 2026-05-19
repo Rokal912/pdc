@@ -1,5 +1,5 @@
 local script_version = "1.0.0"
-local json_url = "https://raw.githubusercontent.com/USERNAME_KAMU/NAMA_REPO/main/version.json"
+local json_url = "https://raw.githubusercontent.com/Rokal912/pdc/refs/heads/main/version.json"
 
 -- Variabel pendeteksi platform
 local isAndroid = (getDeviceType ~= nil) -- Deteksi sederhana untuk Monetloader
